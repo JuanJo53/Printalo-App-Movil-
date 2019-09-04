@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:printalo/wdg/BtnGWB.dart';
-import '../wdg/Txt.dart';
-import '../wdg/IngTextdfields.dart';
-import '../wdg/BtnSocialNetworks.dart';
+import 'package:printalo/widgets/BtnGWB.dart';
+import '../widgets/Txt.dart';
+import '../widgets/IngTextdfields.dart';
+import '../widgets/BtnSocialNetworks.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:flutter/widgets.dart';
 

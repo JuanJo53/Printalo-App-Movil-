@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:printalo/pages/Ingresar.dart';
 import 'package:printalo/pages/Registrar.dart';
-import '../wdg/BtnGWB.dart';
-import '../wdg/Txt.dart';
-import '../wdg/logo.dart';
+import '../widgets/BtnGWB.dart';
+import '../widgets/Txt.dart';
+import '../widgets/logo.dart';
 import '../main.dart';
 
 class Home extends StatefulWidget {

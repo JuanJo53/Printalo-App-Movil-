@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:printalo/wdg/Textfield.dart';
+import 'package:printalo/widgets/Textfield.dart';
 
 class RegTextFields extends StatelessWidget {
   @override

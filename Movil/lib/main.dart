@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'pages/Home.dart';
 import 'pages/Registrar.dart';
 import 'pages/Ingresar.dart';
+import 'pages/bbnav.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
           )
         )
       ),
-      home: Home(),
+      home: BBNav(),
       routes: {
         "/Register":(BuildContext context) => Registrar(),
         "/Ingresar":(BuildContext context) => Ingresar(),

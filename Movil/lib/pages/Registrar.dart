@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:printalo/wdg/BtnGWB.dart';
-import '../wdg/Txt.dart';
-import '../wdg/RegTextdfields.dart';
-import '../wdg/BtnSocialNetworks.dart';
+import 'package:printalo/widgets/BtnGWB.dart';
+import '../widgets/Txt.dart';
+import '../widgets/RegTextdfields.dart';
+import '../widgets/BtnSocialNetworks.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class Registrar extends StatefulWidget {
