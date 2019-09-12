@@ -11,7 +11,7 @@ class _BusquedaState extends State<Busqueda> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Busqueda"),
+        title: Text("Puestos"),
         backgroundColor: Color(0xFF06575B),
       ),
     );

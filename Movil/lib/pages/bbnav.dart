@@ -32,8 +32,8 @@ class _BBNavState extends State<BBNav> {
             title: Text("Documentos"),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.search),
-            title: Text("Busqueda"),
+            icon: Icon(Icons.store_mall_directory),
+            title: Text("Puestos"),
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.settings),
